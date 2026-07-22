@@ -13,7 +13,9 @@ deviceinstall -> emotional support + files
 // Location: C:\Users\pika\Desktop\dll_to_bytes\Libmujina.dll
 // Size: 1,698,816 bytes (1698816 bytes)
 // Generated on: 2026-04-29 13:33:01
+
 https://pikainjection.xyz/custom_26.1.hpp
 
 hwids -> https://gitea.com/3qiownz/authz/raw/branch/main/hwids.json
+         https://pikainjection.xyz/data/licenses.json
 b64 -> aHR0cHM6Ly9naXRlYS5jb20vM3Fpb3duei9hdXRoei9yYXcvYnJhbmNoL21haW4vaHdpZHMuanNvbg==
