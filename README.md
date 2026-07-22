@@ -2,6 +2,7 @@
 https://pikainjection.xyz/ , based on mujina client , supports 26.1
 
 # Showcase
+https://youtu.be/GqJ61QMVFGs
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/29ee7bb5-b7b1-484a-9491-8cfee2d7b5ad" />
 
 # Credits
